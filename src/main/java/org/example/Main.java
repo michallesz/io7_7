@@ -7,6 +7,6 @@ public class Main {
     }
 
     public void cos() {
-        System.out.println("cos");
+        System.out.println("jakies cos");
     }
 }
