@@ -9,5 +9,6 @@ public class Main {
     public void cos() {
         System.out.println("cos master");
         System.out.println("cosXD");
+        System.out.println("jakies cos");
     }
 }
