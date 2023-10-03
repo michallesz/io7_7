@@ -12,7 +12,7 @@ public class Main {
         System.out.println("jakies cos");
     }
 
-    public void addnewUser(String imie){
+    public void addnewUserPoprawiony(String imie){
         System.out.println(imie);
     }
 }
