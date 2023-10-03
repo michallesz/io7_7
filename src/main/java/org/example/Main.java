@@ -11,4 +11,8 @@ public class Main {
         System.out.println("cosXD");
         System.out.println("jakies cos");
     }
+
+    public void addnewUser(String imie){
+        System.out.println(imie);
+    }
 }
